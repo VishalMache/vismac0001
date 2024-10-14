@@ -1,2 +1,2 @@
 # vismac0001
-first github repository
+first git repository
