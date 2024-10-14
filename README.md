@@ -1,2 +1,2 @@
-# vismac0005
+# gitdemo
 first git repository
